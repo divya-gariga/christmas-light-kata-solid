@@ -1,0 +1,1 @@
+# christmas-light-kata-solid
